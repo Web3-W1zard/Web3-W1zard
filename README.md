@@ -1,6 +1,6 @@
 # 👋 Welcome to WebW1zard's Web!
 
-I'm **WebW1zard**, a Web3 engineer with **4 years of experience** weaving decentralized solutions with the **MERN stack** (MongoDB, Express.js, React, Node.js) and **EVM-based blockchain smart contracts**. Inspired by Peter Parker's tech-savvy web-slinging in *Spider-Man: Homecoming*, I craft secure, scalable, and user-friendly dApps and smart contracts for the Ethereum ecosystem.
+I'm **WebW1zard**, a Web3 engineer with **4 years of experience** weaving decentralized solutions with the **MERN stack** (MongoDB, Express.js, React, Node.js) and **EVM-based blockchain smart contracts**. Inspired by Peter Parker's tech-savvy web-slinging in *Spider-Man*, I craft secure, scalable, and user-friendly dApps and smart contracts for the Ethereum ecosystem.
 
 ## 🕸️ About Me
 - 💻 **Expertise**: Building robust Web3 applications and smart contracts using Solidity and the MERN stack.
